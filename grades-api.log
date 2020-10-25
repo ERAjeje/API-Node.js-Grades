@@ -1,0 +1,66 @@
+2020-10-11T04:15:58.793Z [grades-api] info: API Started.
+2020-10-11T04:16:34.123Z [grades-api] info: API Started and file created.
+2020-10-11T04:16:55.973Z [grades-api] error: PATCH /grades - O campo Id é obrigatório.
+2020-10-11T04:18:40.446Z [grades-api] info: API Started.
+2020-10-11T04:20:13.509Z [grades-api] info: API Started.
+2020-10-11T04:21:56.885Z [grades-api] info: API Started.
+2020-10-11T04:21:57.476Z [grades-api] error: DELETE /grades - Id não encontrado.
+2020-10-11T04:24:08.852Z [grades-api] info: API Started.
+2020-10-11T04:24:10.112Z [grades-api] error: GET /grades - Id não encontrado.
+2020-10-11T04:28:12.508Z [grades-api] info: API Started.
+2020-10-11T04:28:15.699Z [grades-api] error: GET /grades - Id não encontrado.
+2020-10-11T04:28:29.929Z [grades-api] error: GET /grades - Id não encontrado.
+2020-10-11T04:29:02.666Z [grades-api] info: API Started.
+2020-10-11T04:29:15.118Z [grades-api] error: GET /grades - Id não encontrado.
+2020-10-11T04:30:15.734Z [grades-api] info: API Started.
+2020-10-11T04:30:17.691Z [grades-api] error: GET /grades - Id não encontrado.
+2020-10-11T04:31:03.192Z [grades-api] info: API Started.
+2020-10-11T04:31:04.736Z [grades-api] info: API Started.
+2020-10-11T04:32:09.822Z [grades-api] info: API Started.
+2020-10-11T04:38:00.117Z [grades-api] info: API Started.
+2020-10-11T04:39:18.017Z [grades-api] info: API Started.
+2020-10-11T04:42:41.366Z [grades-api] info: API Started.
+2020-10-11T04:43:46.922Z [grades-api] info: API Started.
+2020-10-11T04:43:56.330Z [grades-api] error: GET /student - Os parametros student e subjetct são obrigatórios.
+2020-10-11T04:48:20.775Z [grades-api] info: API Started.
+2020-10-11T04:48:21.967Z [grades-api] error: GET /student - Cannot read property 'reduce' of undefined
+2020-10-11T04:49:36.179Z [grades-api] info: API Started.
+2020-10-11T04:49:37.246Z [grades-api] error: GET /student - Cannot read property 'reduce' of undefined
+2020-10-11T04:50:17.661Z [grades-api] info: API Started.
+2020-10-11T04:50:18.483Z [grades-api] error: GET /student - Cannot read property 'reduce' of undefined
+2020-10-11T04:53:03.831Z [grades-api] info: API Started.
+2020-10-11T04:53:05.340Z [grades-api] error: GET /student - Cannot read property 'reduce' of undefined
+2020-10-11T04:53:15.421Z [grades-api] info: API Started.
+2020-10-11T04:53:17.323Z [grades-api] error: GET /student - Cannot read property 'reduce' of undefined
+2020-10-11T04:53:51.295Z [grades-api] info: API Started.
+2020-10-11T04:53:51.991Z [grades-api] error: GET /student - Cannot read property 'reduce' of undefined
+2020-10-11T04:55:57.134Z [grades-api] info: API Started.
+2020-10-11T04:55:58.248Z [grades-api] error: GET /student - Cannot read property 'forEach' of undefined
+2020-10-11T04:56:40.398Z [grades-api] info: API Started.
+2020-10-11T04:57:37.716Z [grades-api] info: API Started.
+2020-10-11T04:57:38.177Z [grades-api] error: GET /student - Invalid status code: 45
+2020-10-11T04:58:18.114Z [grades-api] info: API Started.
+2020-10-11T04:58:41.744Z [grades-api] info: API Started.
+2020-10-11T04:59:02.106Z [grades-api] info: API Started.
+2020-10-11T05:00:04.498Z [grades-api] info: API Started.
+2020-10-11T05:00:06.058Z [grades-api] info: API Started.
+2020-10-11T05:04:02.025Z [grades-api] info: API Started.
+2020-10-11T05:05:21.551Z [grades-api] info: API Started.
+2020-10-11T05:05:22.121Z [grades-api] error: GET /media - Cannot set headers after they are sent to the client
+2020-10-11T05:07:31.791Z [grades-api] info: API Started.
+2020-10-11T05:07:33.982Z [grades-api] info: API Started.
+2020-10-11T05:08:49.864Z [grades-api] info: API Started.
+2020-10-11T05:11:00.323Z [grades-api] info: API Started.
+2020-10-11T05:11:02.395Z [grades-api] error: GET /bigger - Cannot set headers after they are sent to the client
+2020-10-11T05:11:20.116Z [grades-api] error: GET /bigger - Cannot set headers after they are sent to the client
+2020-10-11T05:11:23.915Z [grades-api] info: API Started.
+2020-10-11T05:11:28.370Z [grades-api] error: GET /bigger - Cannot set headers after they are sent to the client
+2020-10-11T05:12:39.114Z [grades-api] info: API Started.
+2020-10-11T05:12:52.469Z [grades-api] info: API Started.
+2020-10-11T05:13:01.241Z [grades-api] info: API Started.
+2020-10-11T22:53:36.768Z [grades-api] info: API Started.
+2020-10-11T22:56:10.758Z [grades-api] info: API Started.
+2020-10-11T22:58:32.998Z [grades-api] info: API Started.
+2020-10-11T23:00:29.721Z [grades-api] info: API Started and file created.
+2020-10-11T23:07:13.915Z [grades-api] error: GET /grades - Id não encontrado.
+2020-10-25T22:26:57.483Z [grades-api] info: API Started.
